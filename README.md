@@ -23,7 +23,7 @@ This application converts PDF files into audio using text-to-speech technology.
   - **`target/`**: Build output directory (for compiled artifacts).
   - **`Dockerfile`**: Docker configuration for backend service.
 
-- **`frontend/`**: Contains frontend files (Vue.js, etc.). If empty, you can add more details on what this folder is intended for.
+- **`frontend/`**: Contains frontend files (Vue.js, etc.).
   
 - **`outputs/`**: Directory for output files (e.g., processed audio, logs, etc.).
 
